@@ -9,3 +9,6 @@ function soma() {
 }
 console.log(olaMundo("Olá Mundo!"));
 console.log(soma());
+
+// Código do Diego:
+console.log("TEste")
